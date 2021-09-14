@@ -1,6 +1,3 @@
-# moneyBox
-Portofolio Aplikasi Mobile dengan React Native
-
 Moneybox
 == 
 Portofolio Aplikasi Mobile dengan React Native
@@ -19,6 +16,6 @@ Aplikasi menabung uang untuk membeli barang yang diinginkan
 ``npx react-native run-android``
 
 #### Tampilan Aplikasi
+![image1](https://user-images.githubusercontent.com/68541473/133221276-09e260d1-5787-4816-bd3a-fbe3aecbb153.png)
 
-
-Detail tampilan aplikasi dapat dilihat pada link berikut [cocokTanam App](https://www.behance.net/gallery/114267113/CocokTanam-App)
+Detail tampilan aplikasi dapat dilihat pada link berikut [moneybox](https://www.behance.net/gallery/111537677/MoneyBox-App)
